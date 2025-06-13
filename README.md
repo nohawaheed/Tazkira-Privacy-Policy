@@ -1,50 +1,65 @@
-# Tazkira Privacy Policy  
+# سياسة الخصوصية لتطبيق تذكرة
 
-**Effective Date:** 01/05/2025  
+**تاريخ السريان: 01/05/2025**
 
-Tazkira ("the App") is committed to protecting your privacy. This Privacy Policy explains how the App handles your information.  
+تطبيق **تَذْكِرَة** ("التطبيق") ملتزم بحماية خصوصيتك. توضح سياسة الخصوصية هذه كيف يتعامل التطبيق مع معلوماتك.
 
-## Information Collection and Use  
-The App does not collect, store, or share any personal information. All data used by the App remains on your device and is not transmitted to any external servers or third parties.  
 
-## Crash Reporting  
-Our app uses **Firebase Crashlytics** to collect crash reports and improve app stability. Crash reports may include:  
+## جمع واستخدام المعلومات
 
-- Device information (e.g., model, operating system version).  
-- App state at the time of the crash.  
-- Stack traces to identify the cause of the crash.  
+لا يقوم التطبيق بجمع أو تخزين أو مشاركة أي معلومات شخصية. تبقى جميع البيانات المستخدمة من قبل التطبيق على جهازك، ولا يتم إرسالها إلى أي خوادم خارجية أو جهات ثالثة.
 
-This information is used **solely for debugging and improving the app**. For more information, please refer to [Firebase's Privacy Policy](https://firebase.google.com/support/privacy).  
 
-### No Data Collection  
-Other features of the app **do not** collect, store, or share any personal data. All data used by the app remains on your device.  
+## تقارير الأعطال
 
-## Permissions Used  
-The App requires certain permissions to function properly. Below is a list of permissions and their purposes:  
+يستخدم التطبيق خدمة **Firebase Crashlytics** لجمع تقارير الأعطال وتحسين استقرار التطبيق. قد تتضمن تقارير الأعطال المعلومات التالية:
+
+- معلومات الجهاز (مثل الطراز وإصدار نظام التشغيل)
+- حالة التطبيق أثناء حدوث العطل
+- آثار التكدس (Stack traces) لتحديد سبب العطل
+
+تُستخدم هذه المعلومات فقط لأغراض التصحيح وتحسين جودة التطبيق. لمزيد من التفاصيل، يمكنك مراجعة [سياسة الخصوصية الخاصة بـ Firebase](https://firebase.google.com/support/privacy).
+
+
+## عدم جمع البيانات
+
+لا تجمع ميزات التطبيق الأخرى أي بيانات شخصية، ولا تخزنها أو تشاركها. تبقى جميع البيانات المستخدمة من قبل التطبيق محفوظة على جهازك فقط.
+
+
+## الأذونات المطلوبة
+
+يطلب التطبيق بعض الأذونات الضرورية لتقديم الوظائف الأساسية. فيما يلي قائمة بالأذونات والغرض من استخدامها:
 
 - **VIBRATE**  
-  Used to provide vibration feedback for notifications or interactions within the App.  
+  لتوفير اهتزاز عند التنبيهات أو التفاعل داخل التطبيق.
 
 - **RECEIVE_BOOT_COMPLETED**  
-  Used to ensure that scheduled notifications are reactivated after the device restarts.  
+  لإعادة تفعيل الإشعارات المجدولة بعد إعادة تشغيل الجهاز.
 
 - **WAKE_LOCK**  
-  Used to ensure that notifications are delivered reliably by preventing the device from going into deep sleep during critical operations.  
+  لضمان تسليم الإشعارات في الوقت المحدد من خلال منع الجهاز من الدخول في وضع السكون العميق أثناء العمليات المهمة.
 
-- **SCHEDULE_EXACT_ALARM** (Android 12 and above)  
-  Used to schedule precise alarms for notifications.  
+- **SCHEDULE_EXACT_ALARM** (لنظام Android 12 فما فوق)  
+  لجدولة التنبيهات بدقة.
 
-- **POST_NOTIFICATIONS** (Android 13 and above)  
-  Used to display notifications to the user.  
+- **POST_NOTIFICATIONS** (لنظام Android 13 فما فوق)  
+  لعرض الإشعارات للمستخدم.
 
-These permissions are solely used to enhance the functionality of the App and ensure that it operates as intended. The App does not use these permissions to collect or share any personal data.  
+لا تُستخدم هذه الأذونات لجمع أو مشاركة أي بيانات شخصية، بل لتحسين أداء التطبيق وضمان عمله بالشكل المطلوب فقط.
 
-## Third-Party Services  
-The App uses **Firebase Crashlytics** for crash reporting (as described above). No other third-party services collect user data.  
 
-## Changes to This Privacy Policy  
-This Privacy Policy may be updated from time to time. Any changes will be reflected on this page. You are advised to review this Privacy Policy periodically for any updates.  
+## خدمات الطرف الثالث
 
-## Contact Us  
-If you have any questions or concerns about this Privacy Policy, please contact us at:  
-**Email:** [nohawaheed.1991@gmail.com](mailto:nohawaheed.1991@gmail.com)  
+يستخدم التطبيق خدمة Firebase Crashlytics فقط كما ذُكر أعلاه. لا تستخدم أي خدمات خارجية أخرى لجمع بيانات المستخدم.
+
+
+## التغييرات على سياسة الخصوصية
+
+قد يتم تحديث سياسة الخصوصية من وقت لآخر. سيتم نشر أي تغييرات على هذه الصفحة. نوصي بمراجعتها بشكل دوري للاطلاع على آخر التحديثات.
+
+
+## تواصل معنا
+
+إذا كان لديك أي أسئلة أو استفسارات حول سياسة الخصوصية هذه، يمكنك التواصل معنا على:
+
+📧 **البريد الإلكتروني:** nohawaheed.1991@gmail.com
